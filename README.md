@@ -8,6 +8,14 @@ This Power BI project provides a comprehensive analysis of nutritional habits an
 * **Activity Impact:** Visualize how different activity levels (Sedentary to Extremely Active) affect average BMI and calorie balance.
 * **Meal Optimization:** Identify top-performing breakfast and snack suggestions based on nutritional density and price categories.
 
+## 📂 Dataset
+This project uses a publicly available dataset from Kaggle:
+
+🔗 https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases
+
+- Source: Kaggle
+- Domain: Nutrition & Health Analytics
+- Features include: Calories, Protein, Fat, Activity Level, BMI, Diseases, etc.
 ---
 
 ## 📊 Dashboard Breakdown
